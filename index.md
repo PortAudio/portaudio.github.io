@@ -10,4 +10,6 @@ The PortAudio project and API was proposed by Ross Bencina to the music-dsp mail
 
 This website is hosted and maintained by Phil Burk of SoftSynth.com. Phil is also a co-designer of PortAudio and used it for audio I/O in JSyn, a real-time synthesis API for Java and 'C'.
 
+(Trigger rebuild.)
+
 {% include footer.html %}
