@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 name: portaudio
-title: null
+title: PortAudio
+description: Portable audio I/O library in C
