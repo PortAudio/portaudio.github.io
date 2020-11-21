@@ -47,6 +47,6 @@ could chase up general discussions of MIT vs GPL for more information. http://op
 
 ### V18 License
 
-See [source code for the similar V18 license](http://www.portaudio.com/docs/portaudio_h_v18.txt). TODO
+See [source code for the similar V18 license](http://www.portaudio.com/docs/portaudio_h_v18.txt). TODO copy V18 docs to new website
 
 {% include footer.html %}
