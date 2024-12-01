@@ -22,6 +22,7 @@ Please [let us know](contacts.md) if you have an app (commercial or otherwise) t
 - [FlexASIO](https://github.com/dechamps/FlexASIO) - a flexible universal ASIO driver by Etienne Dechamps
 - [Flex-Radio](http://www.flex-radio.com/) - software defined amateur radio
 - [Fldigi](http://www.w1hkj.com/) - digital model for ham radio
+- [Gaps](https://gapsguitarcom/) - guitar ear training software
 - [Gnaural](http://gnaural.sourceforge.net/) - opensource binaural-beat generator  intended as an aural aid to meditation
 - [HOLMImpulse](http://www.holmacoustics.com/holmimpulse.php) - freeware program for speaker gain and phase response measurement [Windows]
 - [In Verbis Virtus](http://www.indomitusgames.com/index.php/en/) - fantasy first person game that uses voice recognition for casting spells
